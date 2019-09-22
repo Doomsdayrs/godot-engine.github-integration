@@ -9,6 +9,7 @@
 ++ Create repository: chose branch, edit readme, .gitignor template, license templete  
 ++ Create new branch  
 ++ Delete group of resources in repositories  
+++ Better repository contents visualization  
 
 + Gists:  
 ++ Show gists in internal file editor  
@@ -19,3 +20,4 @@
 ++ Enable/disable plugin output  
 ++ Documentation  
 ++ Wiki  
+++ New icons  
