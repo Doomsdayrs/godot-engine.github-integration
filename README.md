@@ -23,7 +23,7 @@ As soon as you download end activate the addon, a new tab in the Bottom Left Doc
 4. With a **double click** on one of your repositories (or a gists) you will enter the *"Repository*" panel, where you will be able to manage the repository (delete, commit).  
 ![edit](https://i.imgur.com/mGenxAK.png) ![commit](https://i.imgur.com/0WEhZUR.png)
 ## How do I install it?
-Just download [this whole repository](https://github.com/fenix-hub/godot-engine.github-integration/tree/v0.2.5) and put it in your `res://addons` folder inside the project you want to work on.  
+Just download [this whole repository](https://github.com/fenix-hub/godot-engine.github-integration/tree/v0.3.1) and put it in your `res://addons` folder inside the project you want to work on.  
 Then, go to `Project > Plugins > "GitHub Integration" > Status > Activate`.  
 
 ### What do I want for a v-1.0.0 ?
